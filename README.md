@@ -58,6 +58,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [ActiveMQ](http://activemq.apache.org/) - A fast Java multiprotocol messaging and Integration Patterns server.
 * [Aedes](https://github.com/moscajs/aedes) - Barebone MQTT broker that can run on any stream server, the node way.
+* [EnMasse](https://github.com/EnMasseProject/enmasse) - self-service messaging platform on Kubernetes and OpenShift with a uniform interface to manage different messaging infrastructure (supports AMQP 1.0, MQTT, OpenWire, CORE and STOMP). 
 * [Emitter](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 * [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
 * [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
